@@ -1,2 +1,3 @@
 # ubuntu-vm-boilerplate
-Boilerplate config for new Ubuntu VMs (Machine ID, SSH server keys, hostname)
+
+A simple bash script to handle boilerplate configurations for new Ubuntu VMs (Machine ID, SSH server keys, Hostname)
