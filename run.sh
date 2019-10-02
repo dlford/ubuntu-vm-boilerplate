@@ -4,7 +4,7 @@ source /etc/lsb-release
 
 if [[ "$DISTRIB_ID" -ne "Ubuntu" ]]; then
   echo "No action taken..."
-  echo "Are you sure this is a Ubuntu system?"
+  echo "Are you sure this is an Ubuntu system?"
   exit 1
 fi
 
